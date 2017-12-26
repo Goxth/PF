@@ -1,0 +1,48 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+body {
+  background: url('https://www.estudiomomo.com/wp-content/uploads/2017/05/optimizarimagenestiendaonline.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+
+.tx{
+	width:100%;
+	text-align: center;
+	margin-top: 450px;
+}
+
+.botones{
+	margin:10px;
+}
+
+button{
+	width:100px;
+	background: #1e424f;
+}
+
+.uno{
+	color:white;
+	width:100px;
+	background: #1e424f;
+}
+.dos{
+	background:#b1c6ce;
+	color:black;
+}
+
+.uno:hover{
+	color:white;
+}
+
+.dos:hover{
+	color:black;
+}
