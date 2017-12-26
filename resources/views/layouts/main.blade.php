@@ -91,8 +91,9 @@
         </footer>
         <script src="{{asset('arch/js/vendor/jquery.js')}}"></script>
         <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
-        <script type="text/javascript" src="{{asset('landing/js/bootstrap.min.js')}}">
-            Stripe.setPublishableKey('pk_test_SJxcO9bzPQMvD27YMU20Frzc');
+        <script type="text/javascript" src="{{asset('landing/js/bootstrap.min.js')}}"></script>
+        <script type="text/javascript">
+        Stripe.setPublishableKey('pk_test_SJxcO9bzPQMvD27YMU20Frzc');
         </script>
         <script src="{{asset('arch/js/app.js')}}"></script>
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
